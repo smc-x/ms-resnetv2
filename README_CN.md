@@ -1,3 +1,4 @@
+> Credits partially to [@ysyisyourbrother](https://github.com/ysyisyourbrother), partially to MindSpore authors.
 
 # Resnetv2描述
 
